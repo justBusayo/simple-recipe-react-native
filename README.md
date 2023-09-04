@@ -1,4 +1,4 @@
-## CIL CODE-A-THON 3 (REACT NATIVE UI)
+## Simple Recipe App(REACT NATIVE)
 
 Check the assets folder for all you need.
 
