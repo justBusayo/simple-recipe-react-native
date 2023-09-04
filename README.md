@@ -4,4 +4,4 @@ Check the assets folder for all you need.
 
 # LINK TO FIGMA
 
-https://www.figma.com/file/AAELeKdOS7jtXGCFZvsE6j/Chat-App?type=design&node-id=0-1&mode=design&t=jU6m7oP8ThiZGzk6-0
+https://www.figma.com/file/TzcT00mMnYPog8LtlRvlgE/Recipe-App-(Community)?node-id=707%3A76&mode=dev
